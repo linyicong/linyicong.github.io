@@ -1,3 +1,3 @@
-> Yet another man.
+# Yet another man
 
 Test info
