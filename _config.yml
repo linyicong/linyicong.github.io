@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
+title: LYC Blog
 SEOTitle: LYCong Blog | LYCong Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: test | 这里是 LYCong 的个人博客，与你一起发现更大的世界。"
+description: LYCong BLog | 这里是 LYCong 的个人博客，与你一起发现更大的世界。"
 keyword: "LYCong test blog"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://linyicong.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     LYC_聪的一些事一些情
+# zhihu_username:     
+github_username:    linyicong
+# twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
